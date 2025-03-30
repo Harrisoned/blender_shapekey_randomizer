@@ -1,6 +1,6 @@
 # Blender Shapekey Randomizer
 
-This plugin was made to mimic some procedurally generated animations  commonly found in game engines. It's my first plugin for Blender, so use at your own risk.
+This plugin was made to mimic some procedurally generated animations  commonly found in game engines. It's my first plugin for Blender, so use at your own risk. Tested on Blender 4.2.8 LTS.
 
 The Blender Shapekey Randomizer allows you to apply randomized shapekey animations to selected meshes. This is particularly useful for creating natural, organic animations such as blinking, muscle twitches, or subtle facial movements.
 
